@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -m 731 hello
+chmod -m 753 hello
